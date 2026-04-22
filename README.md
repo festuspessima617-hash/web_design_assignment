@@ -1,8 +1,8 @@
 # WEB DESING - FESTUS PESSIMA
 ##technology
--HTML
--Git
--Github
+- HTML
+- Git
+- Github
 ## assingment screenshots
 <img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/7e635f0c-3e53-4153-9d34-f070365d3933" />
 <img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/f660eef7-4e4b-4e21-be7f-cd52bdd0fa28" />
